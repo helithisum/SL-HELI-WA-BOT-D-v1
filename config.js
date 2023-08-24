@@ -65,8 +65,8 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['948048200', 'SL HELI BOT', true] //don't change this name and number
+  ['948048200', 'CO SL HELI BOT', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+948048200'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
